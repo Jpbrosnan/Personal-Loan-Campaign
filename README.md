@@ -1,0 +1,4 @@
+# Project Viewing Options
+  1. The best and easiest way to view this project is by viewing the HTML file. If the HTML file isn't rendering in browser, download it and open it.
+  2. The 2nd option is to press the '.' key when the repository is open in the browser. This will open the github.dev editor in read-only mode which allows you to view the .ipynb notebook.
+  3. The last, more complicated, way of viewing this project is by running the .ipynb notebook yourself. I do not recommend this option if you do not have experience with Jupyter notebooks. First, download the .ipynb file and it's required data file(s) then upload them to Google Colab, and run the notebook. Check to make sure the data file(s) are uploaded into the correct directory on Google Colab or it will not run correctly. Depending on the project, the runtime type might have to be changed.
